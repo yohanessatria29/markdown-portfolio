@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*This is will be italic ?*
+__And this will be Bold ?__
+__And This will be *Fusion* those two__
